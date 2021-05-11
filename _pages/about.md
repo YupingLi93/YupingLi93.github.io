@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am cutey Yuping
+I am a second-year PhD student at the Leeds School of Business, University of Colorado Boulder.
