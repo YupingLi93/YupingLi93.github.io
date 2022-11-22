@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a rising third-year PhD student at the Leeds School of Business, University of Colorado Boulder. I'm interested in innovation, CSR, corporate governance and family business studies.
+I am a fourth-year PhD student at the Leeds School of Business, University of Colorado Boulder. I'm interested in technological innovation, digital platform, corporate governnance and entrepreneurship.
