@@ -6,7 +6,11 @@ description:
 nav: true
 ---
 
-I will be teaching BCOR-2304:Strategic and Entrepreneurial Thinking in Fall 2021.
+BCOR-2304: Strategic and Entrepreneurial Thinking
+    Instructor:
+    Spring 2022: 4.5/5(79 students), PhD student teaching award
+    Fall 2021: 4.4/5 (80 students)
 
-Teaching assistant for BCOR-2304: Strategic and Entrepreneurial Thinking in Spring 2021.
+    Teaching assistant:
+    Spring 2021: Instructor - Mukund Chari (480 students)
 
