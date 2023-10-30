@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year PhD student at the Leeds School of Business, University of Colorado Boulder. I'm interested in technological innovation, corporate strategy and digital platform.
+I am a fifth-year PhD student at the Leeds School of Business, University of Colorado Boulder. I'm interested in open source innovation, innovation and technology strategy, corporate strategy, and digital platforms.
