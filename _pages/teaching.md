@@ -16,5 +16,7 @@ Fall 2021: 4.4/5 (80 students)
 
 **Teaching assistant:**
 
+Spring 2022: Instructor - Tony Tong
+
 Spring 2021: Instructor - Mukund Chari (480 students)
 
