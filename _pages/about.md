@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fifth-year PhD student at the Leeds School of Business, University of Colorado Boulder. I'm interested in open source innovation, innovation and technology strategy, corporate strategy, and digital platforms.
+Hello! I am a PhD candidate at the Leeds School of Business, University of Colorado Boulder. My research interests include open source innovation, innovation and technology strategy, corporate strategy, and digital platforms. I will be entering the job market for the 2024-2025 academic year.
